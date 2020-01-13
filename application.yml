@@ -12,4 +12,4 @@ spring:
    application: 
      name: config-server-test
   
- #请保存为UTF-8
+#请保存为UTF-8
